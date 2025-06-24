@@ -5,7 +5,7 @@ import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Coding-Practice-28-Nxt-Trendz-Authentication-2">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
