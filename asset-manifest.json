@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/css/main.10aa70d0.chunk.css",
+    "main.js": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/main.c38b6681.chunk.js",
+    "main.js.map": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/main.c38b6681.chunk.js.map",
+    "runtime-main.js": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/runtime-main.eb91094b.js",
+    "runtime-main.js.map": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/runtime-main.eb91094b.js.map",
+    "static/js/2.737e1d42.chunk.js": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/2.737e1d42.chunk.js",
+    "static/js/2.737e1d42.chunk.js.map": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/2.737e1d42.chunk.js.map",
+    "index.html": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/index.html",
+    "static/css/main.10aa70d0.chunk.css.map": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/css/main.10aa70d0.chunk.css.map",
+    "static/js/2.737e1d42.chunk.js.LICENSE.txt": "/Coding-Practice-28-Nxt-Trendz-Authentication-2/static/js/2.737e1d42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb91094b.js",
+    "static/js/2.737e1d42.chunk.js",
+    "static/css/main.10aa70d0.chunk.css",
+    "static/js/main.c38b6681.chunk.js"
+  ]
+}
